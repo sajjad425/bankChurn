@@ -1,8 +1,8 @@
 <div align="center">
 # Bank Customer Churn Prediction
-</div>
-<<<<<<< HEAD
 
+<<<<<<< HEAD
+</div>
 =======
 ![bankChurn](https://github.com/user-attachments/assets/850d7012-32ca-4fe9-b647-76b371f377f1)
 
