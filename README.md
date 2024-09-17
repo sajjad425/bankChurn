@@ -1,5 +1,7 @@
 # Bank Customer Churn Prediction
 
+![bankChurn](https://github.com/user-attachments/assets/850d7012-32ca-4fe9-b647-76b371f377f1)
+
 ## Dataset Overview
 
 This dataset consists of 10,000 records with 12 columns related to bank customer information. The goal is to predict customer churn, where the target variable is the `churn` column (1 indicates the customer has churned, and 0 indicates they have not).
